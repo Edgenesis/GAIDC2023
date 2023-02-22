@@ -1,6 +1,8 @@
 # 欢迎来到 GAIDC2023 Shifu 展台
 
-![Shifu Logo](https://github.com/Edgenesis/shifu/raw/main/img/shifu-logo.svg)
+<div align="center">
+<img src="https://github.com/Edgenesis/shifu/raw/main/img/shifu-logo.svg" width="350px">
+</div>
 
 ## 简介
 
